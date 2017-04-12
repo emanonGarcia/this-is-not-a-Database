@@ -1,7 +1,6 @@
 # This is not a Database!
 
-I repeat, this is not a Database. TIND is a simpler CLI program that allows for usique users to create logins, and store unique information about one's self. Usernames must be unique and a password must correspond to the aforementioned username. File contains a
-user.py which constructs users and takes in pertinent user info
+I repeat, this is not a Database. TIND is a simple CLI program that allows for unique users to create logins, and store unique information about one's self. Usernames must be unique and a password must correspond to the aforementioned username. File contains a user.py which constructs users and takes in pertinent user info
 
 ## Getting Started
 
@@ -13,7 +12,7 @@ python3
 
 ### Installing
 
-After downloading and unzipping, execute login.py from the local directory
+After downloading and unzipping, run login.py from the local directory
 
 ## Author
 
